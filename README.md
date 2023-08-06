@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Suyeon Lee from South Korea
+
+I'm application sw developer for ADAS system(Lane centering system)
+
 
 <!--
 **FamousSuyeon/FamousSuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
